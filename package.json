@@ -1,0 +1,21 @@
+{
+  "name": "grunt-sample-project",
+  "version": "1.0.0",
+  "description": "Yolo waterpolo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "je",
+    "moeder",
+    "yolo",
+    "waterpolo"
+  ],
+  "author": "Freek Fonk",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-sass": "^2.0.0"
+  }
+}
