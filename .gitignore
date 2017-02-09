@@ -3,3 +3,6 @@
 
 # Node libraries
 node_modules/
+
+# Ignore compiled stylesheets
+src/assets/css/

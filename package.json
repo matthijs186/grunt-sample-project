@@ -12,10 +12,20 @@
     "yolo",
     "waterpolo"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthijs186/grunt-sample-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/matthijs186/grunt-sample-project/issues"
+  },
+  "homepage": "https://github.com/matthijs186/grunt-sample-project#readme",
   "author": "Freek Fonk",
-  "license": "ISC",
+  "license": "UNLICENSED",
   "devDependencies": {
     "grunt": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-watch": "^1.0.0",
     "grunt-sass": "^2.0.0"
   }
 }
